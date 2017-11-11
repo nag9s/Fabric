@@ -6,4 +6,5 @@
 * [Hyperledger Fabric](hyperledger-fabric.md)
 * [SawTooth](sawtooth.md)
 * [ChainCode ](chaincode.md)
+  * [LifeCycle Methods](chaincode/lifecycle-methods.md)
 
