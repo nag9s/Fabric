@@ -7,4 +7,5 @@
 * [SawTooth](sawtooth.md)
 * [ChainCode ](chaincode.md)
   * [LifeCycle Methods](chaincode/lifecycle-methods.md)
+* [apps](apps.md)
 
